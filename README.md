@@ -1,0 +1,2 @@
+# myGitRepository
+To learn Git.
