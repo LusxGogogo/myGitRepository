@@ -1,2 +1,0 @@
-This is haha.txt content.
-This file is uesd for test git.
